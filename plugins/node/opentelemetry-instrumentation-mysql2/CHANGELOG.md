@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.34.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql2-v0.34.0...instrumentation-mysql2-v0.34.1) (2023-07-18)
+
+
+### Bug Fixes
+
+* **instrumentation-mysql2:** sql-common should be a dependency ([#1584](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1584)) ([00f7404](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/00f7404156350ef2dfe3b79e525265dbef359dac))
+
 ## [0.34.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql2-v0.33.4...instrumentation-mysql2-v0.34.0) (2023-07-12)
 
 

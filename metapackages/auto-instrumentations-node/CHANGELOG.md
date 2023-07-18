@@ -87,6 +87,21 @@
     * @opentelemetry/instrumentation-koa bumped from ^0.34.2 to ^0.34.3
     * @opentelemetry/instrumentation-redis bumped from ^0.34.3 to ^0.34.4
 
+## [0.39.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.38.0...auto-instrumentations-node-v0.39.0) (2023-07-18)
+
+
+### Features
+
+* **cucumber:** add instrumentation for @cucumber/cucumber ([#1252](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1252)) ([82267ab](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/82267ab02f8d9b27613b5926089c42d04d4a4a7e))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-cucumber bumped from ^0.0.1 to ^0.1.0
+    * @opentelemetry/instrumentation-mysql2 bumped from ^0.34.0 to ^0.34.1
+
 ## [0.38.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.37.1...auto-instrumentations-node-v0.38.0) (2023-07-12)
 
 
